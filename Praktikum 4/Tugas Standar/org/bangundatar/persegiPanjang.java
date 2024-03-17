@@ -1,3 +1,9 @@
+/**
+ * File :persegiPanjang.java 16/03/2024
+ * Penulis :Jeremia Joel Richard Ramalael
+ * Deskripsi: file source code class persegiPanjang
+ */
+
 package org.bangundatar;
 
 import org.poligon.Poligon;
